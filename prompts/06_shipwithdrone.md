@@ -13,4 +13,13 @@ and islands are visible in the background to the left and right.
 푸른하늘에 맑은날씨로, 구름이 껴있고
 배경엔 좌우로 섬이 보인다
 
+
+A floating restaurant rests on the sea,
+connected by a cable above by a air mobility slightly larger than the restaurant itself
+The air mobility looks like a mixture of a UFO and quadrocopter and a shape.
+The sky is blue and clear, with clouds drifting by,
+and islands are visible in the background to the left and right.
+
+quadrocopter / air mobility **
+
 ```
