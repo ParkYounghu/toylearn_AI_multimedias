@@ -4,13 +4,22 @@
 ## storyboard
 
 0:00 | 1컷 | 3초 | 광각 Establishing Shot | 인물 등장, 방 전체 | 페이드인
+
 0:03 | 2컷 | 3초 | Close-Up | 표정 강조 | 컷인 + 줌인
+
 0:06 | 3컷 | 4초 | Tracking Shot | 책상으로 이동 | 슬라이드 이동
+
 0:10 | 4컷 | 4초 | Over-the-Shoulder | 상대 시선 | 페이드 전환
+
 0:14 | 5컷 | 4초 | Cut-in / Cut-away | 손·소품 디테일 | 슬라이드 + 포커스
+
 0:18 | 6컷 | 4초 | Medium Shot + Slow Motion | 감정 강조 | 슬로우 모션
+
 0:22 | 7컷 | 5초 | POV / Reverse Angle | 관점 변화 | 컷 전환 + 줌아웃
+
 0:27 | 8컷 | 3초 | Wide Shot | 마무리, 공간 강조 | 페이드아웃
+
+
 
 1
 00:00:00,000 --> 00:03:00,000
