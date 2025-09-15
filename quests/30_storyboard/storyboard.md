@@ -1,5 +1,5 @@
 
-```
+
 
 ## storyboard
 
@@ -58,7 +58,9 @@ Consistent lighting, warm cinematic tone, photorealistic textures.
 8) Wide shot final: Entire room with person, balanced cinematic composition.  
 
 
-## scene image
-[Google AI studio] (https://aistudio.google.com/app/prompts/1h3FniUH_HV_te7tB6R156qGpaT_BVUqa)
+ ## scene image
+[Google AI studio](https://aistudio.google.com/app/prompts/1h3FniUH_HV_te7tB6R156qGpaT_BVUqa)
 
-```
+## script
+[감정 대사](https://github.com/ParkYounghu/toylearn_AI_multimedias/blob/main/quests/30_storyboard/30_sound.wav)
+
