@@ -1,6 +1,8 @@
 
 ```
 
+## storyboard
+
 0:00 | 1컷 | 3초 | 광각 Establishing Shot | 인물 등장, 방 전체 | 페이드인
 0:03 | 2컷 | 3초 | Close-Up | 표정 강조 | 컷인 + 줌인
 0:06 | 3컷 | 4초 | Tracking Shot | 책상으로 이동 | 슬라이드 이동
@@ -54,5 +56,9 @@ Consistent lighting, warm cinematic tone, photorealistic textures.
 6) Medium shot slow-motion: Person reaching or turning, dramatic lighting.  
 7) POV: Person’s view of desk and objects, immersive framing.  
 8) Wide shot final: Entire room with person, balanced cinematic composition.  
+
+
+## scene image
+[Google AI studio] (https://aistudio.google.com/prompts/1pZZ5iO-lE8qm3UDwcTqB7xN1jHmGANQm?save=true)
 
 ```
