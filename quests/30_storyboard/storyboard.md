@@ -59,6 +59,6 @@ Consistent lighting, warm cinematic tone, photorealistic textures.
 
 
 ## scene image
-[Google AI studio] (https://aistudio.google.com/prompts/1pZZ5iO-lE8qm3UDwcTqB7xN1jHmGANQm?save=true)
+[Google AI studio] (https://aistudio.google.com/app/prompts/1h3FniUH_HV_te7tB6R156qGpaT_BVUqa)
 
 ```
