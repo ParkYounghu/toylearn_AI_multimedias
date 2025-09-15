@@ -8,7 +8,7 @@
 ```
 
 ## URL 문법
-[]()
+ [ prompts/prompts_games]
 
 ## 목록 문법
 -
