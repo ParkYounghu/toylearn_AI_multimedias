@@ -1,6 +1,6 @@
 
 
- **Google - github markdown**
+ 문법 안내 링크 - github markdown ##
 
 ## 입력 정보 고정 문법
 ```
