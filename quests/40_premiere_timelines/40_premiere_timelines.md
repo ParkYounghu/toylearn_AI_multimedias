@@ -14,9 +14,17 @@
 - select : alt
 
 
- ## Effects 패널 생성
+ ## Effects 
   오른쪽 위 파란 불 들어온 Workspace 클릭 -> 나타나는 목록 내에 Effects
-  
+  색보정 및 화면 효과 삽입 가능 
+  Dissolve -> Cross dissolve (페이드인 or 아웃)
+
+  ## 자막(텍스트)의 이미지화
+  srt 파일 주입 후 
+  전체 드래그 -> Graphic and Titles -> Upgrade caption to graphic
+
+  이후 이미지처럼 다루기 (클릭 후 왼쪽 위 이펙트 컨트롤) 
+  or 오른쪽 effect에서 화면효과 가능
 
   ## 프롬프트 
 
